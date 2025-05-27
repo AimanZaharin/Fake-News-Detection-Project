@@ -46,11 +46,13 @@ It contains labeled news articles for binary classification (real or fake).
     pip install -r requirements.txt
 
 4. Set Up NLTK data
-    Before running the notebook, create the necessary directory:
+    <br> Before running the notebook, create the necessary directory:
     ```bash
     mkdir -p fnd-venv/nltk_data
-
+    ```
+    
     Then, run the following in your Python environment (it is already included in the code):
+
     ```python
     import nltk
     nltk.download('punkt')
@@ -59,7 +61,7 @@ It contains labeled news articles for binary classification (real or fake).
     nltk.download('wordnet')
 
 5. Run the Jupyter Notebook
-    Open the .ipynb file and run all cells to test different models and view results.
+    Open the ``.ipynb`` file and run all cells to test different models and view results.
 
 ## Folder Structure
 
