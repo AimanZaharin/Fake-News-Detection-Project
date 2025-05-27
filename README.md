@@ -1,4 +1,4 @@
-# Fake News Detection Project
+# Hybrid Approaches to Fake News Detection: A Comparative Analysis Using ML, LSTM, and BERT
 
 This project explores various methods for detecting fake news using traditional machine learning, deep learning, and transformer-based approaches. Implemented in a Jupyter Notebook, it provides a comparative analysis of different models and demonstrates how Natural Language Processing (NLP) techniques can help identify misinformation.
 
