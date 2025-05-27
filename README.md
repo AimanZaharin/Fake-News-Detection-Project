@@ -13,7 +13,9 @@ This project explores various methods for detecting fake news using traditional 
 ## Dataset
 
 The dataset used in this project is sourced from Kaggle:  
+
 [Fake News Detection Dataset](https://www.kaggle.com/code/therealsampat/fake-news-detection/input)  
+
 It contains labeled news articles for binary classification (real or fake).
 
 ## Models Implemented
@@ -33,8 +35,8 @@ It contains labeled news articles for binary classification (real or fake).
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
-   cd fake-news-detection
+   git clone https://github.com/AimanZaharin/Hybrid-Approaches-to-Fake-News-Detection-A-Comparative-Analysis-Using-ML-LSTM-and-BERT.git
+   cd Hybrid-Approaches-to-Fake-News-Detection-A-Comparative-Analysis-Using-ML-LSTM-and-BERT
 
 2. Create a Virtual Environment
     ```bash
@@ -66,13 +68,13 @@ It contains labeled news articles for binary classification (real or fake).
 ## Folder Structure
 
 ```yaml
-Fake-News-Detection/
+Hybrid-Approaches-to-Fake-News-Detection-A-Comparative-Analysis-Using-ML-LSTM-and-BERT/
 │
 ├── fnd-venv/                   # Virtual environment (excluded from repo)
 ├── requirements.txt            # Required dependencies
 ├── main.ipynb                  # Main notebook
 ├── README.md                   # Project documentation
-├── True.csv
-└── Fake.csv                    
+├── True.csv                    # The dataset for Real News
+└── Fake.csv                    # The dataset for Fake News
 
 
