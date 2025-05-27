@@ -9,6 +9,7 @@ This project explores various methods for detecting fake news using traditional 
 - Hugging Face Transformers (BERT)
 - NLTK
 - Keras / TensorFlow
+- PyTorch
 
 ## Dataset
 
